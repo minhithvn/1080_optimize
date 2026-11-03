@@ -1,0 +1,73 @@
+{
+  "total_visits": 11,
+  "unique_visitors": [
+    "ab352acdefb633b6bd2c46a5d0785adb",
+    "dfd5eb1f7442dcc4430766de68fcfcef",
+    "3d646ff2149ce66b5a595a8b32f266b5",
+    "25e038bc5287b6ae894f012d533b2e5d",
+    "fcd56a665a03854f82f836406f5f7511",
+    "82cc5105b7b158e929bce4101001a0c8",
+    "8db598ae7fa5d1106c9bcff06fb068e3",
+    "d6858b32ee72cad7d6eba85d2f1af179",
+    "5242a6a64dc89e8cff331dc53e26d976",
+    "9bd40e98e1081f22989cef01717d9e23",
+    "19336de8bfc9f7d917fffa444c7f4746"
+  ],
+  "visit_history": [
+    {
+      "session_id": "ab352acdefb633b6bd2c46a5d0785adb",
+      "timestamp": "2025-12-26T14:17:00.165875",
+      "date": "2025-12-26"
+    },
+    {
+      "session_id": "dfd5eb1f7442dcc4430766de68fcfcef",
+      "timestamp": "2025-12-26T14:31:51.876446",
+      "date": "2025-12-26"
+    },
+    {
+      "session_id": "3d646ff2149ce66b5a595a8b32f266b5",
+      "timestamp": "2025-12-26T14:40:58.745739",
+      "date": "2025-12-26"
+    },
+    {
+      "session_id": "25e038bc5287b6ae894f012d533b2e5d",
+      "timestamp": "2025-12-26T14:41:37.575008",
+      "date": "2025-12-26"
+    },
+    {
+      "session_id": "fcd56a665a03854f82f836406f5f7511",
+      "timestamp": "2025-12-26T14:44:40.008741",
+      "date": "2025-12-26"
+    },
+    {
+      "session_id": "82cc5105b7b158e929bce4101001a0c8",
+      "timestamp": "2025-12-26T14:54:03.764266",
+      "date": "2025-12-26"
+    },
+    {
+      "session_id": "8db598ae7fa5d1106c9bcff06fb068e3",
+      "timestamp": "2025-12-26T14:55:53.624139",
+      "date": "2025-12-26"
+    },
+    {
+      "session_id": "d6858b32ee72cad7d6eba85d2f1af179",
+      "timestamp": "2025-12-26T15:03:42.927956",
+      "date": "2025-12-26"
+    },
+    {
+      "session_id": "5242a6a64dc89e8cff331dc53e26d976",
+      "timestamp": "2025-12-26T15:05:23.540606",
+      "date": "2025-12-26"
+    },
+    {
+      "session_id": "9bd40e98e1081f22989cef01717d9e23",
+      "timestamp": "2025-12-26T15:08:55.411757",
+      "date": "2025-12-26"
+    },
+    {
+      "session_id": "19336de8bfc9f7d917fffa444c7f4746",
+      "timestamp": "2025-12-26T15:09:52.703495",
+      "date": "2025-12-26"
+    }
+  ]
+}
