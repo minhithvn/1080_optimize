@@ -1,0 +1,17 @@
+{
+  "daily_visits": {
+    "2025-12-26": 11
+  },
+  "peak_online": 1,
+  "peak_online_time": "2025-12-26T14:17:00.170416",
+  "total_searches": 27,
+  "popular_stocks": {
+    "AAA": 17,
+    "BMP": 1,
+    "DGC": 3,
+    "ABB": 1,
+    "ITD": 1,
+    "SSI": 2,
+    "ASM": 2
+  }
+}
